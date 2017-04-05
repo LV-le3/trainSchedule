@@ -1,0 +1,13 @@
+body {
+	background-image: url("ireland.jpg");
+}
+
+.jumbotron{
+	text-align:center;
+	margin:10px;
+	height:230px;
+	padding-bottom:60px;
+	font-family: 'Cinzel Decorative', cursive;
+	font-family: 'Merriweather', serif;
+	font-family: 'Playfair Display', serif;
+}
